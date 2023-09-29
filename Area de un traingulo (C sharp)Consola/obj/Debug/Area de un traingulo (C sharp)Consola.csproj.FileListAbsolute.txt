@@ -1,0 +1,7 @@
+C:\Users\marti\OneDrive\Escritorio\Programas\Area de un traingulo (C sharp)Consola\Area de un traingulo (C sharp)Consola\bin\Debug\Area de un traingulo (C sharp)Consola.exe.config
+C:\Users\marti\OneDrive\Escritorio\Programas\Area de un traingulo (C sharp)Consola\Area de un traingulo (C sharp)Consola\bin\Debug\Area de un traingulo (C sharp)Consola.exe
+C:\Users\marti\OneDrive\Escritorio\Programas\Area de un traingulo (C sharp)Consola\Area de un traingulo (C sharp)Consola\bin\Debug\Area de un traingulo (C sharp)Consola.pdb
+C:\Users\marti\OneDrive\Escritorio\Programas\Area de un traingulo (C sharp)Consola\Area de un traingulo (C sharp)Consola\obj\Debug\Area de un traingulo (C sharp)Consola.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Escritorio\Programas\Area de un traingulo (C sharp)Consola\Area de un traingulo (C sharp)Consola\obj\Debug\Area de un traingulo (C sharp)Consola.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Escritorio\Programas\Area de un traingulo (C sharp)Consola\Area de un traingulo (C sharp)Consola\obj\Debug\Area de un traingulo (C sharp)Consola.exe
+C:\Users\marti\OneDrive\Escritorio\Programas\Area de un traingulo (C sharp)Consola\Area de un traingulo (C sharp)Consola\obj\Debug\Area de un traingulo (C sharp)Consola.pdb
